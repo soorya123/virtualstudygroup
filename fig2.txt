@@ -1,0 +1,243 @@
+/* Mask Group */
+
+position: absolute;
+width: 411px;
+height: 720px;
+
+
+
+/* login */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* a 2 */
+
+position: absolute;
+width: 409.29px;
+height: 720px;
+left: 0px;
+top: 0.97px;
+
+background: url(a.jpg);
+border: 2px solid #000000;
+box-sizing: border-box;
+filter: blur(4px);
+transform: rotate(-0.14deg);
+
+
+/* Frame 1 */
+
+/* Auto Layout */
+display: flex;
+flex-direction: column;
+padding: 0px;
+
+position: absolute;
+width: 256px;
+height: 48px;
+left: 87px;
+top: 325px;
+
+
+
+/* Group 1 */
+
+position: static;
+width: 256px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: center;
+margin: 0px 10px;
+
+
+/* Rectangle 1 (Stroke) */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+opacity: 0.1;
+
+
+/* Username */
+
+position: absolute;
+left: 4.69%;
+right: 41.02%;
+top: 14.58%;
+bottom: 12.5%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 256px;
+height: 45px;
+left: 87px;
+top: 406px;
+
+
+
+/* Password */
+
+position: absolute;
+width: 152px;
+height: 30px;
+left: 97px;
+top: 414px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 256px;
+height: 45px;
+left: 87px;
+top: 406px;
+
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 256px;
+height: 45px;
+left: 87px;
+top: 484px;
+
+
+
+/* Sign */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 150px;
+top: 496px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+border: 2px solid #000000;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 256px;
+height: 45px;
+left: 87px;
+top: 484px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Forgot Password */
+
+position: absolute;
+width: 205px;
+height: 35px;
+left: 146px;
+top: 549px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Create an Account? */
+
+position: absolute;
+width: 191px;
+height: 41px;
+left: 118px;
+top: 639px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Virtual study group */
+
+position: absolute;
+width: 275px;
+height: 63px;
+left: 102px;
+top: 59px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+display: flex;
+align-items: center;
+
+color: #D87D29;
+

@@ -1,0 +1,9 @@
+/* a 3 */
+
+position: absolute;
+width: 411px;
+height: 759px;
+left: 0px;
+top: 0px;
+
+background: url(a.jpg);
